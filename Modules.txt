@@ -1,0 +1,17 @@
+*Player -Julien
+
+NPCs/Enemies -Brad
+
+*Collisions/Hit Box Detection -Frank
+
+*Health Bar/Lives -Marco
+
+*Stages -Adam
+
+PowerUps -Daniel
+
+*User Interface (menus and such) -Marco
+
+Art/Models -Brad
+
+

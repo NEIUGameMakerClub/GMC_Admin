@@ -1,0 +1,100 @@
+
+Mouse Buttons:
+
+*Middle Mouse Button - Rotate View
+
+*Shift-Middle Mouse Button - Pan View
+
+Left-Click - Place 3D cursor
+
+*Right-Click - Select
+
+*Shift-Right-Click - Add to Selection
+
+
+Menus:
+
+*N - Right Panel (Properties)
+
+*T - Left Panel
+
+
+Sculpting Settings:
+
+Enable Dynamic Topology
+
+Enable Collaplse Short Edges (snakehook brush)
+
+
+HotKeys:
+
+*A - Select All/None
+
+*Shift-A - Add
+
+*E - Extrude
+
+F - Create Face/Edge
+
+G - Grab/Move
+
+*I - Insert Keyframe
+
+Ctrl-J - Join Selected Objects
+
+*Ctrl-P - Make Parent
+
+*R - Rotate
+
+*S - Scale
+
+B - Border Select (Select with Mouse)
+
+*Tab - Toggle Edit Mode
+
+
+Rigging Settings:
+
+Armature Settings -> X-Ray
+
+
+Rigging Hotkeys:
+
+Shift-A - Add Bone
+
+E - Extrude
+
+E-X - Extrude Along X Axis
+
+Shift-E - Extrude in Both Directions
+
+R - Rotate
+
+S - Scale
+
+
+Parent Rig to Model Steps:
+
+Right Click Mesh
+
+Shift-Right Click Rig
+
+Ctrl-P -> With Atomic Weights - Parent Rig to Model
+
+Pose Mode
+
+
+Animation Steps:
+
+Weight Paint
+
+A A - Select Everything
+
+Alt-R - Set Rotations on Everything
+
+A A 
+
+I - Insert locRotScale
+
+Move Cursor on Timeline
+
