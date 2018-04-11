@@ -115,4 +115,5 @@ C-Bean@neiu.edu,
 g-pearl@neiu.edu,
 R-Aslam@neiu.edu,
 rlplchol@neiu.edu,
-kconeely@gmail.com
+kconeely@gmail.com,
+zenhsu@hotmail.com
